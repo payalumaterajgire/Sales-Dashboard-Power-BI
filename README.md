@@ -15,7 +15,7 @@ A fully‑interactive **Power BI** report that lets you explore sales, revenue
 
 | Path/Name | Purpose |
 |-----------|---------|
-| `/Shopnest Dashboard_(Payal).pbix` | Editable Power BI Desktop file |
+| `/[Shopnest Dashboard_(Payal).pbix]` | Editable Power BI Desktop file |
 | `/ShopNest Dashboard Report (payal).pdf` | Printable report explaining every visual |
 | `/Dashnoard/` | ![image](https://github.com/user-attachments/assets/fc368ba9-ee37-470f-86e9-e4ab86e2ea07)
 | `README.md` | You’re reading it! |
